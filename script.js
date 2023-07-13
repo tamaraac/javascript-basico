@@ -53,7 +53,7 @@ else if (hora > 12 && hora < 18){
  //laço loop for
  //1.for
  for(let i = 1;i < 9; i++){
-    if(i% 2==0){
+    if(i % 2==0){
         console.log(i);
     }
    
