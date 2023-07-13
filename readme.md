@@ -9,8 +9,8 @@ Repositório para revisão de javascript! <br>
 Numeros <br>
 Strings
 Booleanos <br>
-Funções
-Objetos <br>
+Funções<br>
+Objetos 
 
 And Or Not
 
