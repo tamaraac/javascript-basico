@@ -1,7 +1,7 @@
 # Javascript Básico :heart:
 
 Repositório para revisão de javascript! <br>
-# Fundamentos de javascript que todo QA precisa saber:
+## Fundamentos de javascript que todo QA precisa saber:
 <br>
 
 **Tipos de dados** 
@@ -9,15 +9,15 @@ Repositório para revisão de javascript! <br>
 Numeros <br>
 Strings
 Booleanos <br>
-Funções<br>
+Funções <br>
 Objetos 
 
-And Or Not
+And  Or  Not
 
-# Variaveis<br>
-var
+## Variaveis <br>
+var <br>
 let
-const
+const <br>
 const X let X var
 
 use const por padrão
