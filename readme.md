@@ -1,11 +1,7 @@
 # Javascript Básico :heart:
 
-Repositório para revisão de javascript! 
-
-## Tecnologias usadas
-<br>
-live server
-
+Repositório para revisão de javascript! <br>
+# Fundamentos de javascript que todo Qa precisa saber:
 tipos de dados
 numeros
 strings
