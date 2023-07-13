@@ -1,17 +1,20 @@
 # Javascript Básico :heart:
 
 Repositório para revisão de javascript! <br>
-# Fundamentos de javascript que todo Qa precisa saber:
-tipos de dados
-numeros
-strings
-booleanos
-funções
-objetos
+# Fundamentos de javascript que todo QA precisa saber:
+<br>
 
-and or not
+**Tipos de dados** 
 
-variaveis
+Numeros
+Strings
+Booleanos
+Funções
+Objetos
+
+And Or Not
+
+# Variaveis<br>
 var
 let
 const
@@ -32,5 +35,3 @@ for
 while
 switch
 
-
-apr
