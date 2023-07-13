@@ -6,11 +6,11 @@ Repositório para revisão de javascript! <br>
 
 **Tipos de dados** 
 
-Numeros<br>
+Numeros <br>
 Strings
-Booleanos<br>
+Booleanos <br>
 Funções
-Objetos<br>
+Objetos <br>
 
 And Or Not
 
